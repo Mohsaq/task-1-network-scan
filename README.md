@@ -5,7 +5,6 @@ To perform a TCP SYN scan using Nmap on the local network and identify open port
 
 ## 🧰 Tools Used
 - Nmap v7.95
-- (Optional) Wireshark
 
 ## 🛠️ Commands Executed
 
@@ -46,5 +45,6 @@ The scan helped identify open services and understand exposure on the internal n
 scan.txt – Nmap raw output
 
 README.md – This report
+
 
 nmap_screenshot.png – Screenshot of scan in terminal
