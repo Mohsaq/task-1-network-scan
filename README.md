@@ -36,7 +36,6 @@ Port	State	Service	Description
 📸 Screenshots
 Nmap scan terminal output (attached as nmap_screenshot.png)
 
-(Optional) Wireshark filtered view of TCP SYN packets
 
 ✅ Conclusion
 The scan helped identify open services and understand exposure on the internal network. Services like SMB and PostgreSQL should be tightly controlled or firewalled in production systems.
@@ -46,5 +45,5 @@ scan.txt – Nmap raw output
 
 README.md – This report
 
-
 nmap_screenshot.png – Screenshot of scan in terminal
+
